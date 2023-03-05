@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+h2 {
+
+  color: white;
+}
+
 body {
   margin: 0;
   font-family: Arial;
@@ -66,29 +71,45 @@ body {
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc07f0dd362539d5670442_WestStudio_LOL_Splash_0178.jpg" style="width:100%">
     <p> Master Yi</p>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc07bfde84c1b8115f141e_WestStudio_LOL_Splash_0177.jpg" style="width:100%">
-    <p> Master Yi</p>
+    <h2> The Elf</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc078958041686be87a119_WestStudio_LOL_Splash_0176.jpg" style="width:100%">
+    <h2> Zoomer</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc07673901f76add0422e6_WestStudio_LOL_Splash_0175.jpg" style="width:100%">
+    <h2> David</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc071716ef8ff7e007da42_WestStudio_LOL_Splash_0174.jpg" style="width:100%">
+    <h2> Gene</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc06d9f5150d2fcc8dc919_WestStudio_LOL_Splash_0173.jpg" style="width:100%">
+    <h2> Arc</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc06a1177e2014597b54e5_WestStudio_LOL_Splash_0172.jpg" style="width:100%">
   </div>
   <div class="column">
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc06771e80542345f01bcd_WestStudio_LOL_Splash_0171.jpg" style="width:100%">
+    <h2> Kris</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc062fdd3625f081666849_WestStudio_LOL_Splash_0170.jpg" style="width:100%">
+    <h2> Rita</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc05f9b6fbbfcf806639c2_WestStudio_LOL_Splash_0169.jpg" style="width:100%">
+    <h2> Ventus</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc05b8cc0ec4fff437f5df_WestStudio_LOL_Splash_0168.jpg" style="width:100%">
+    <h2> Xera</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc051bf5150d3ccf8d19a9_WestStudio_LOL_Splash_0167.jpg" style="width:100%">
+    <h2> Viktor</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc042d177e205a22774a1b_WestStudio_LOL_Splash_0166.jpg" style="width:100%">
-   <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc042d177e205a22774a1b_WestStudio_LOL_Splash_0166.jpg" style="width:100%">	
+    <h2> Realita</h2>
+    <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc042d177e205a22774a1b_WestStudio_LOL_Splash_0166.jpg" style="width:100%">	
   </div>  
   <div class="column">
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc03342b734938397c8b1c_WestStudio_LOL_Splash_0161.jpg" style="width:100%">
+    <h2> Willow</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc02d39c34077caf56c87b_WestStudio_LOL_Splash_0159.jpg" style="width:100%">
+    <h2> ZYeezy</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc0289fafdb95863e91d27_WestStudio_LOL_Splash_0158.jpg" style="width:100%">
+    <h2> Womper</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc0269b6fbbfc3fa62d40e_WestStudio_LOL_Splash_0157.jpg" style="width:100%">
+    <h2> Kevin</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc02202b734907bb7b9da0_WestStudio_LOL_Splash_0156.jpg" style="width:100%">
+    <h2> Linda </h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc01fc55a4604d4b83d125_WestStudio_LOL_Splash_0155.jpg" style="width:100%">
+    <h2> karen</h2>
     <img src="https://uploads-ssl.webflow.com/5c1bb997cb1dd611a0e6c8ce/61bc01b29c340709515597e4_WestStudio_LOL_Splash_0154.jpg" style="width:100%">
   </div>
 </body>
